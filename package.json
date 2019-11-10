@@ -67,10 +67,11 @@
   },
   "dependencies": {
     "debug": "^4.1.0",
+    "eslint-plugin-react": "^7.16.0",
     "lodash": "^4.17.4",
     "metalsmith": "^2.3.0",
     "minimatch": "^3.0.3",
-    "sharp": "^0.21.1"
+    "sharp": "^0.23.2"
   },
   "ava": {
     "require": [
